@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Awarenessapi</string>
+    <string name="alert_text">"ถ้าคุณไม่กดอนุญาติ คุณจะไม่สามารถสามารถเข้าแอพพลิเคชั่นนี้ได"</string>
+    <string name="alert_ok">"อนุญาต"</string>
+    <string name="alert_cancel">"ยกเลิก"</string>
+    <string name="music_hot">"เพลง Tattoo Colour - อากาศร้อนๆ"</string>
+    <string name="music_smoke">"เพลง หมอกหรือควัน - เบิร์ด ธงไชย"</string>
+    <string name="music_rain"> "เพลง ร่ม - แสตมป์ feat.บอย ตรัย , ออน ละอองฟอง "</string>
+    <string name="music_default">"เพลง ขอเพียงที่พักใจ - มาลีวัลย์ เจมีน่า"</string>
+    <string name="text_user">"ผู้ใช้กำลังเคลื่อนไหวแบบไหน :"</string>
+    <string name="text_reliability">"ความน่าเชื่อถือ :"</string>
+    <string name="headphones_in">"Headphones are plugged in."</string>
+    <string name="headphones_not">"Headphones are NOT plugged in"</string>
+    <string name="headphones_unknown"> "The headphone fence is in an unknown state."</string>
+    <string name="text_latitude"> "Latitude :"</string>
+    <string name="text_longitude">"Longitude :"</string>
+
+    <string-array name="weather_conditions">
+        <item>ไม่ทราบสภาพอากาศที่แน่ชัด</item>
+        <item>อากาศดี</item>
+        <item>มีเมฆปกคลุม</item>
+        <item>มีหมอกหนา</item>
+        <item>มีหมอกปกคลุม</item>
+        <item>อากาศเย็น</item>
+        <item>ฝนตก</item>
+        <item>หิมะตก</item>
+        <item>มีพายุ</item>
+        <item>มีลมแรง</item>
+    </string-array>
+</resources>
